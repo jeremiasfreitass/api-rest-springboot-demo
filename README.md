@@ -12,4 +12,5 @@ API Rest que disponibiliza o endpoint /products por meio do qual pode-se obter a
 <li>Java 17</li>
 <li>SpringBoot</li>
 <li>Maven</li>
+<li>Postman</li>
 <li>IntelliJ</li>
